@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'Uptime Status',
+  SiteName: '运行状态|Yumoe',
 
   // 站点链接
   SiteUrl: '/',
