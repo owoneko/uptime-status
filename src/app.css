@@ -10,7 +10,7 @@
 
 body {
   background: #F6F8FA url(./assets/background.png) center top;
-  color: #FFC0CB;
+  color: #3F4347;
   font-size: 12px;
   font-family: sans-serif;
   line-height: 1;
@@ -56,7 +56,7 @@ a {
 #header .logo {
   font-size: 18px;
   font-weight: bold;
-  color: #319848;
+  color: #FFC0CB;
 }
 
 #header .navi {
@@ -204,6 +204,6 @@ a {
 }
 
 #footer a {
-  color: #58AD6A;
+  color: #FFC0CB;
   font-weight: bold;
 }
