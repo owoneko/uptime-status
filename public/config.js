@@ -17,6 +17,7 @@ window.Config = {
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
   ApiKeys: [
     'm788991515-ccf39d7877cc649fa2c83607',
+    'm791666395-3b406b44d800b8a6ea2771b4',
     'm789044892-2526bb1a27af5e27efd32619',
     'm789470473-21211393c1dbbc06052d1823',
   ],
