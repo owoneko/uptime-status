@@ -11,12 +11,13 @@ window.Config = {
   // 只需填写域名部分，默认为官网域名
   // 因官网 API 时不时的会 CROS 报错，可填自定义反代域名
   // 详见 https://github.com/yb/uptime-status/ 说明
-  ApiDomain: 'cute-kitten-3677.moebest.workers.dev',
+  ApiDomain: 'https://api.lty.fun',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
   ApiKeys: [
-    'm788991515-ccf39d7877cc649fa2c83607',
+    'm793963303-bcb29b34ad2f7903c31ba131',
+    'm793963314-6f5450d4663ceaebec448a12',
     'm789044892-2526bb1a27af5e27efd32619',
     'm789470473-21211393c1dbbc06052d1823',
   ],
