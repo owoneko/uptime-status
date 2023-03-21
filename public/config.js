@@ -34,7 +34,7 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://yumoe.live/'
+      url: 'https://imoe.fun'
     },
     {
       text: 'GitHub',
