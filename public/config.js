@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: '运行状态 | Yumoe',
+  SiteName: '运行状态 | Imoe',
 
   // 站点链接
   SiteUrl: '/',
