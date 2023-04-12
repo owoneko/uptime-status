@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: '运行状态 | Imoe',
+  SiteName: '运行状态 | IOLOLI',
 
   // 站点链接
   SiteUrl: '/',
